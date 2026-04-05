@@ -3,6 +3,7 @@
 
 # Permitir solo los archivos específicos
 !.gitignore
+!README.md
 !chat_sft.py
 !export_onnx.py
 !generate.py
