@@ -1,0 +1,16 @@
+# Ignorar todo por defecto
+*
+
+# Permitir solo los archivos específicos
+!.gitignore
+!chat_sft.py
+!export_onnx.py
+!generate.py
+!src/
+!src/**
+src/__pycache__/
+!trainings/
+!trainings/base_training/
+!trainings/base_training/train_colab_v2.ipynb
+!trainings/instruct-training/
+!trainings/instruct-training/sft_instruct_colab.ipynb
